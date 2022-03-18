@@ -38,5 +38,7 @@ function verificaParola() {
 
 }
 
+verificaParola();
+
 
 
