@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+.bg_container {
+    background-color: rgb(255, 0, 85);
+    color: white;
+}
